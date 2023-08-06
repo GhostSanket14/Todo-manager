@@ -1,2 +1,2 @@
-# todo-full-stack
-my Todo full stack application made using springboot and react.
+# todo-weApp
+my Todo WEB application made using springboot and JSP.
