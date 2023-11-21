@@ -1,0 +1,14 @@
+<nav class="navbar navbar-expand-md navbar-light" style="background-color: #2eb2ff; border: 1.5px solid black;">
+   <div class="navbar-header m-3">
+      <a class="navbar-brand m-2" href="#" style="color: black; font-weight: bold; font-size: 24px;">Sanket's-Cookie</a>
+   </div>
+   <div class="collapse navbar-collapse" style="margin-top: 10px;">
+      <ul class="navbar-nav">
+         <li class="nav-item"><a class="nav-link" href="/" style="color: black; font-weight: bold;">Home</a></li>
+         <li class="nav-item"><a class="nav-link" href="/list-todo" style="color: black; font-weight: bold;">Todo's</a></li>
+      </ul>
+   </div>
+   <ul class="navbar-nav" style="margin-top: 10px;">
+      <li class="nav-item"><a class="nav-link" href="/logout" style="color: black; font-weight: bold;">Logout</a></li>
+   </ul>
+</nav>
